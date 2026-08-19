@@ -1,0 +1,5 @@
+# Allow all other crawling on the site
+Allow: /
+
+# Link to the XML sitemap
+Sitemap: https://welding.stallionsteelworks.com/sitemap.xml
