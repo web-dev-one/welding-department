@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://welding.stallionsteelworks.com/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Hero / Open Graph image -->
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/stallion-steelworks-welding-phoenix.jpg</image:loc>
+      <image:title>Stallion SteelWorks Welding Phoenix AZ</image:title>
+    </image:image>
+
+    <!-- Structures section & CTA background -->
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/custom-steel-fabrication-phoenix.jpg</image:loc>
+      <image:title>Custom steel fabrication and welding in Phoenix Arizona</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/pitched-roof.jpg</image:loc>
+      <image:title>Steel welding fabrication Phoenix AZ</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/custom-welding-phoenix.jpg</image:loc>
+      <image:title>Custom welding Phoenix Arizona Stallion SteelWorks</image:title>
+    </image:image>
+
+    <!-- Gallery images -->
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/welding-pool-rail.jpg</image:loc>
+      <image:title>Phoenix AZ welder custom welding</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/steel-shade-fabrication-cavecreek-az.jpg</image:loc>
+      <image:title>Steel fabrication Phoenix AZ</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/custom-steel-welding.jpg</image:loc>
+      <image:title>Custom steel welding Arizona</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/WeldingCorral.jpg</image:loc>
+      <image:title>Welding repairs Phoenix AZ</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/steel-welding-phoenix.jpg</image:loc>
+      <image:title>Custom steel gates Phoenix Arizona</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/RustRedBarn.jpg</image:loc>
+      <image:title>Custom Sheep Barn</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/MareMotelWashStationTackRoomHayBarn.jpg</image:loc>
+      <image:title>Mare Motel Wash Station Hay Barn</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/10x19.5%2010x6%20standing%20on%20roof.jpg</image:loc>
+      <image:title>Cantilever</image:title>
+    </image:image>
+  </url>
+</urlset>

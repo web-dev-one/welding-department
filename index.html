@@ -482,7 +482,77 @@
 .fin-badge small{background:#111;color:var(--spark);padding:2px 10px;border-radius:999px;font-size:.75rem}
 .financing h2{font-family:var(--font-display);font-size:clamp(2.6rem,6vw,4.2rem);line-height:.95;text-transform:uppercase;margin-bottom:14px}
 .financing h2 span{color:var(--spark)}
-.financing>.wrap>p{font-size:1.15rem;color:rgba(255,255,255,.85);max-width:52ch;margin:0 auto 28px}
+.financing>.wrap>p{font-size:1.15rem;color:rgba(255,255,255,.85);max-width:52ch;margin:0 auto 28px} 
+  #financing {
+      background: linear-gradient(135deg, #fff4e6 0%, #ffe8d1 100%);
+      border-top: 8px solid var(--terracotta);
+      border-bottom: 8px solid var(--terracotta);
+    }
+
+    .financing-content {
+      max-width: 840px;
+      margin: 0 auto;
+      text-align: center;
+      background: white;
+      padding: 56px 40px;
+      border-radius: 32px;
+      box-shadow: 0 25px 60px rgba(217, 108, 63, 0.3);
+    }
+
+    .financing-badge {
+      display: inline-block;
+      background: var(--terracotta);
+      color: white;
+      padding: 10px 28px;
+      border-radius: 50px;
+      font-weight: 700;
+      font-size: 1.15rem;
+      margin-bottom: 16px;
+      box-shadow: 0 8px 25px rgba(217,108,63,0.4);
+    }
+
+    .financing-content h2 {
+      font-size: clamp(2.3rem, 6.2vw, 3.6rem);
+      margin-bottom: 16px;
+      line-height: 1.1;
+    }
+
+    .financing-content .lead {
+      font-size: 1.4rem;
+      color: #333;
+      font-weight: 500;
+      margin-bottom: 36px;
+    }
+
+    .financing-benefits {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 20px;
+      margin: 36px 0;
+    }
+    @media (min-width: 640px) { .financing-benefits { grid-template-columns: repeat(2, 1fr); } }
+
+    .benefit {
+      background: #fffaf0;
+      padding: 22px 26px;
+      border-radius: 20px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+      text-align: left;
+    }
+
+    .benefit strong {
+      display: block;
+      color: var(--terracotta);
+      font-size: 1.25rem;
+      margin-bottom: 6px;
+    }
+
+    .urgency {
+      font-size: 1.15rem;
+      color: #d96c3f;
+      font-weight: 700;
+      margin-top: 28px;
+    }
     </style>
 </head>
 
@@ -557,15 +627,15 @@
             </h2>
 
             <p>
-                Finding the right <strong>welder in Phoenix AZ</strong> means finding
-                someone who can do more than simply join two pieces of metal.
+                Finding the right <strong>welding company in Phoenix AZ</strong> means finding
+                who can do more than simply join two pieces of metal.
                 Professional welding requires proper fit-up, preparation,
                 material selection, weld placement, reinforcement and an
                 understanding of how the finished component will actually be used.
             </p>
 
             <p>
-                Stallion SteelWorks specializes in <strong>custom metal fabrication
+                Stallion SteelWorks specializes in <strong>custom metal frame erection and fabrication
                 and welding in Phoenix</strong>. We work with steel and other
                 appropriate metals to create functional, durable and visually
                 clean assemblies for residential, commercial, agricultural,
@@ -573,10 +643,10 @@
             </p>
 
             <p>
-                Our work includes everything from <strong>steel gates and metal
-                railings</strong> to <strong>structural frames, trailer repairs,
+                Our work includes everything from <strong>cantlievers, steel gates and metal
+                railings</strong> to <strong>structural frames </strong> and even trailer repairs,
                 custom brackets, welded furniture, doors, security structures,
-                shade structures and one-off fabrication projects</strong>.
+                <strong>shade structures and one-off fabrication projects</strong>.
             </p>
 
             <p>
@@ -640,7 +710,7 @@
         </div>
 
         <ul class="service-list">
-            <li>Custom welding</li>
+            <li>Cantilever</li>
             <li>Steel welding</li>
             <li>Structural welding</li>
             <li>MIG welding</li>
@@ -742,10 +812,10 @@
             </div>
 
             <div class="card">
-                <h3>Brackets & Supports</h3>
+                <h3>Cantilevers</h3>
                 <p>
-                    Custom steel brackets, mounts, tabs, supports and
-                    reinforcement pieces fabricated to project dimensions.
+                    Custom steel cantilevers mounted deep into the earth, roofing and
+                    reinforced shade fabricated to project dimensions.
                 </p>
             </div>
 
@@ -1550,7 +1620,7 @@
 </section>
 
 </main>
-<section id="financing" class="financing"><div class="wrap" style="text-align:center;padding:56px 20px 52px;position:relative;z-index:1"><div class="fin-badge">💰 Financing Available <small>Legacy Building Structures</small></div><h2>Own Your Dream Structure <span>Today</span><br>With Easy Monthly Payments</h2><p>No huge upfront cost. Get your custom carport, RV shade, patio cover, or full steel structure built this month — and start using it immediately.</p><div class="grid3 fin-cards" style="margin-bottom:28px;text-align:left"><div class="card"><h4>⚡ Instant Approval</h4><p>Most customers approved in under 24 hours. Just send a few photos.</p></div><div class="card"><h4>💸 Low Monthly Payments</h4><p>Flexible terms that fit your budget — own premium steel without the sticker shock.</p></div><div class="card"><h4>🚀 Build Your Legacy Now</h4><p>Turn your property into something you’ll be proud of — starting this week.</p></div></div><a href="#quote" class="fin-cta">💳 Apply for Financing — Build This Month</a><p style="margin-top:18px;font-size:1.05rem;color:rgba(255,255,255,.85)">Call <strong style="color:var(--spark)">602-999-7756</strong> and say <strong>“Legacy Financing”</strong> — we’ll walk you through approval in minutes.</p></div></section>
+<section id="financing" class="financing"><div class="wrap" style="text-align:center;padding:56px 20px 52px;position:relative;z-index:1"><div class="fin-badge">💰 Financing Available <large>Legacy Building Structures</large></div><h2>Own Your Dream Structure <span>Today</span><br>With Easy Monthly Payments</h2><p>No huge upfront cost. Get your custom carport, RV shade, patio cover, or full steel structure built this month — and start using it immediately.</p><div class="grid3 fin-cards" style="margin-bottom:28px;text-align:left"><div class="card"><h4>⚡ Instant Approval</h4><p>Most customers approved in under 24 hours. Just send a few photos.</p></div><div class="card"><h4>💸 Low Monthly Payments</h4><p>Flexible terms that fit your budget — own premium steel without the sticker shock.</p></div><div class="card"><h4>🚀 Build Your Legacy Now</h4><p>Turn your property into something you’ll be proud of — starting this week.</p></div></div><a href="#quote" class="fin-cta">💳 Apply for Financing — Build This Month</a><p style="margin-top:18px;font-size:1.05rem;color:rgba(255,255,255,.85)">Call <strong style="color:var(--spark)">602-999-7756</strong> and say <strong>“Legacy Financing”</strong> — we’ll walk you through approval in minutes.</p></div></section>
 
 
 <!-- FOOTER -->
