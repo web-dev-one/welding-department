@@ -70,4 +70,27 @@
       <image:title>Cantilever</image:title>
     </image:image>
   </url>
+
+  <!-- Steel Privacy Fence Page -->
+  <url>
+    <loc>https://welding.stallionsteelworks.com/steel-privacy-fence</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/CPanelFencewithWall.png</image:loc>
+      <image:title>Steel c-panel privacy fence with wall on Arizona estate</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/horizontalsteelfencecavecreek.jpg</image:loc>
+      <image:title>C-panel horizontal metal fence providing solid privacy</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://welding.stallionsteelworks.com/pics/lightstonecpanelfencegilbert2.jpg</image:loc>
+      <image:title>Modern light stone steel privacy fence Gilbert AZ</image:title>
+    </image:image>
+  </url>
 </urlset>
